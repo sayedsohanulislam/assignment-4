@@ -1,10 +1,5 @@
-# Contributing
+Contributing
 
-Thanks for your interest in improving this project. To contribute:
-
-- Fork the repository and create a new branch for your change.
-- Make small, focused commits with clear messages.
-- Open a pull request describing the change and why it helps.
-- Run or add tests when appropriate.
+Thanks for your interest in improving this project. To contribute please mail to my mail: sohanul0711@gmail.com
 
 Be respectful and follow standard GitHub community guidelines.
