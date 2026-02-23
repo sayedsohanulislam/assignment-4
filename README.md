@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Welcome To ( সহজ সরল সিম্পল ) Assignment - 4 
 
 
